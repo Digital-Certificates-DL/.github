@@ -1,38 +1,29 @@
-# ViteJS + Vue 3 + Typescript + Vue-Router + PiniaJS
+# Educational Digital Certificate (EDC)
 
-# Eslint + Stylelint
+# What is the service?
+Our service provides functionality for claiming certificates after finishing any educational course or program. We cover requests for lecturers and students – if you are a lecturer you can issue a certificate for a student, and if you are a student you can ask for a certificate by yourself.
 
-## Project setup
-```
-yarn install
-```
+## What questions are solved by our service?
+* Automatization for claiming certificates
+* Students-friendly interface for receiving certificates 
+* The certificate has an irrefutable confirmation of his origin with a digital signature
+* Securely storing private keys 
+* Ability to create own templates for certificate
+* Web page with the list of all issued certificates
 
-### Compiles and hot-reloads for development
-```
-yarn start
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## List of features
+* Creating QR-code with digital signature
+* Bitcoin timestamping for certificate
+* Creating a PDF Certificate file
+* Service for easy access to Google Sheet
+* Storage for private keys
+* Creating a template for certificates
+* Collecting Ethereum addresses from graduated students
+* Minting an SBT token for student
+ 
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Implementation
 
-### Run unit tests
-```
-yarn test
-```
-
-### Lints release/release candidate version
-```
-yarn rsc %release-version%
-```
-
-### Build docker image with version
-```dockerfile
- docker build --no-cache --progress=plain --build-arg BUILD_VERSION=1.0.0-rc.0 -t vue-template .
-```
+You can try to use by this link 
+https://sbtcert2.distributedlab.com/
