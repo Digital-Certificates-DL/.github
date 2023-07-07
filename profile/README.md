@@ -1,4 +1,4 @@
-# Educational Digital Certificate (EDC)
+# Digital Certificate Issuance System
 
 # What is the service?
 System provides functionality for automatic issuance of the certificates after finishing any educational course or program. The certificates are secured by corporate digital signature and Bitcoin timestamp. Additionally the issuer can issue the certificate in a form of SBT on Ethereum.
