@@ -1,13 +1,14 @@
 # Educational Digital Certificate (EDC)
 
 # What is the service?
-Our service provides functionality for claiming certificates after finishing any educational course or program. We cover requests for lecturers and students – if you are a lecturer you can issue a certificate for a student, and if you are a student you can ask for a certificate by yourself.
+System provides functionality for automatic issuance of the certificates after finishing any educational course or program. The certificates are secured by corporate digital signature and Bitcoin timestamp. Additionally the issuer can issue the certificate in a form of SBT on Ethereum.
+
 
 ## What questions are solved by our service?
-* Automatization for claiming certificates
-* Students-friendly interface for receiving certificates 
+* Automatization of certificate issuance process
+* User-friendly interface for issuing a big number of certificates 
 * The certificate has an irrefutable confirmation of his origin with a digital signature
-* Securely storing private keys 
+* Client-side storing of private keys
 * Ability to create own templates for certificate
 * Web page with the list of all issued certificates
 
@@ -15,13 +16,10 @@ Our service provides functionality for claiming certificates after finishing any
 ## List of features
 * Creating QR-code with digital signature
 * Bitcoin timestamping for certificate
-* Creating a PDF Certificate file
-* Service for easy access to Google Sheet
-* Storage for private keys
-* Creating a template for certificates
-* Collecting Ethereum addresses from graduated students
+* Building a *.PDF file for each certificate
+* Integration with Google Sheet
+* Customization tools for certificate template
 * Minting an SBT token for student
- 
 
 ### Implementation
 
