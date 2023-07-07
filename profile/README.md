@@ -25,5 +25,4 @@ Our service provides functionality for claiming certificates after finishing any
 
 ### Implementation
 
-You can try to use by this link 
-https://sbtcert2.distributedlab.com/
+You can try to use by this [link](https://sbtcert2.distributedlab.com/)
